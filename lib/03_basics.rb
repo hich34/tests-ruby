@@ -13,5 +13,19 @@ def who_is_bigger(a,b,c)
 end
 
 def reverse_upcase_noLTA(str)
-    return str.upcase.delete("L T A")
+    return str.upcase.reverse.delete "L" "T" "A"
+end
+
+def array_42(find)
+    find.each do |x|
+        if x == 42
+            return true
+        end
+    end
+    return false
+     
+end
+
+def magic_array(tableau1, tableau2)
+
 end
