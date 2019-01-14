@@ -26,5 +26,6 @@ def first_word(text)
 end
 
 def titleize(text)
-    return 
+    sw = %w[and in the of a an]
+    return text.capitalize.gsub( /\S+/ ) { |w| sw.include?(w) ? w : w.capitalize } 
 end
