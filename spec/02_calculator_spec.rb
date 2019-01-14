@@ -47,16 +47,25 @@ describe "#multiply" do
     expect(multiply(3, 4)).to eq(12)
   end
 
-  it "multiplies two other numbers"
+  it "multiplies two other numbers" do
     # one other test here, don't forget do end ;)
+    expect(multiply(5, 4)).to eq(20)
+  end
 
-  it "multiplies two other numbers, one of them being 0"
+  it "multiplies two other numbers, one of them being 0" do 
     # one last test, with 0 in it
-
+    expect(multiply(3, 0)).to eq(0)
+  end 
 end
 
 describe "#power" do
-  it "raises one number to the power of another number"
+  it "raises one number to the power of another number" do
+    expect(power(3,5)).to eq(243)
+  end
+
+  it "Another power" do
+    expect(power(10, 2)).to eq(100)
+  end
 end
 
 # http://en.wikipedia.org/wiki/Factorial
