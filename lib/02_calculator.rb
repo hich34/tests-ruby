@@ -23,6 +23,9 @@ def power(chiffre1, puissance)
 
 end
 
-def factorial
-
+def factorial(nb)
+    if nb == 1 || nb == 0
+        return 1
+    end
+    return nb * factorial(nb - 1)
 end
