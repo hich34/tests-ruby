@@ -1,12 +1,12 @@
-def add(pNb1, pNb2)
+def add(chiffre1, chiffre2)
 
 end
 
-def sum(pNb1, pNb2)
+def sum(chiffre1, chiffre2)
 
 end
 
-def multiply(pNb1, pNb2)
+def multiply(chiffre1, chiffre2)
 
 end
 
