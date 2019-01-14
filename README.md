@@ -1,7 +1,5 @@
-**
-## Compte Rendu du jour 06 dans l'école de la magie noir - THP
 
-** 
+## Compte Rendu du jour 06 dans l'école de la magie noir - THP
 
 ![Voici donc la fameuse lettre pour THP - L'école de la magie noir & vodoo ](https://www.actualitte.com/images/actualites/images/Cinema/harry%20potter%20lettre%20seau.jpg)
 
