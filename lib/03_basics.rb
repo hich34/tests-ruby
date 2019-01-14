@@ -26,6 +26,6 @@ def array_42(find)
      
 end
 
-def magic_array(tableau1, tableau2)
-
+def magic_array(tableau1)
+    return tableau1.flatten.map! {|a| a * 2}.delete_if {|a| a % 3 == 0}.uniq.sort
 end
