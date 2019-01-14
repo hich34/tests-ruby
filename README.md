@@ -1,3 +1,33 @@
+**
+## Compte Rendu du jour 06 dans l'école de la magie noir - THP
+
+** 
+
+![Voici donc la fameuse lettre pour THP - L'école de la magie noir & vodoo ](https://www.actualitte.com/images/actualites/images/Cinema/harry%20potter%20lettre%20seau.jpg)
+
+*Par les apprentis mages noirs :*
+ - **Hicham ABOUINAN**
+ - **Jimmy CHARPAGNE**
+
+Petite note pour les correcteurs : 
+*si vous croisez un certain Simon qui parle un langage genre : Pig latin , cassez lui un genoux de notre part !* 
+
+ - [x] Test exo 00_hello.rb : OK
+ - [x] Test exo 01_temperature.rb : OK
+ - [x] Test exo 02_calculator.rb : OK / Avec Factoriel && Puissance && Plusieurs test de multiplication 
+ - [x] Test exo 03_basics.rb : OK
+ - [x] Test exo 04_simon_says.rb : OK 
+ - [x] Test exo 05_timer.rb : OK
+ - [ ] Test exo 06_pig_latin.rb : NON FAIT
+
+
+
+
+> Written with [StackEdit](https://stackedit.io/).
+
+
+============== Voici le Readme.md de base ==============
+
 Small exercices in Ruby -- RSpec 3 Edition
 ==========
 
